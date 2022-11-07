@@ -1,7 +1,8 @@
 //This will wait till the page is fully loaded to start events
 $(function () {
   var today = dayjs().format("dddd, MMMM D");
-  var currentHour = dayjs().hour;
+  var currentHour = dayjs().hour();
+  console.log(currentHour);
   //contains references to all timeblock ids and makes them to a number(so it can be compared to current hour)
   var allHours = [
     $("#9").attr("id"),
