@@ -15,9 +15,11 @@ The steps on install the project is to access the live link from github pages.
 To use this web app, you can enter text into the different time blocks. Then you can click the save button to make the text persist even if you refresh the page. It will show you the current day and the time blocks will be color coded based on the time of day it is.
 
 ![plot](./Assets/_C__Users_Bradley_Desktop_Work%2520Day%2520Scheduler_Work-Day-Scheduler_index.html.png)
+
 ## Credits
 
 I used MDN documentation
+
 https://developer.mozilla.org/en-US/
 
 I refernced jQuery documentation
